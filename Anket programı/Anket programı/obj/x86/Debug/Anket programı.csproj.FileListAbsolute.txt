@@ -1,0 +1,15 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\Anket programı\bin\Debug\Anket programı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Anket programı\bin\Debug\Anket programı.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\Anket programı\obj\x86\Debug\Anket_programı.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Anket programı\obj\x86\Debug\Anket_programı.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Anket programı\obj\x86\Debug\Anket programı.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\Anket programı\obj\x86\Debug\Anket programı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Anket programı\obj\x86\Debug\Anket programı.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Anket programı\Anket programı\obj\x86\Debug\Anket programı.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Anket programı\Anket programı\obj\x86\Debug\Anket programı.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Anket programı\Anket programı\bin\Debug\Anket programı.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Anket programı\Anket programı\bin\Debug\Anket programı.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Anket programı\Anket programı\obj\x86\Debug\Anket_programı.Form1.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Anket programı\Anket programı\obj\x86\Debug\Anket_programı.Properties.Resources.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Anket programı\Anket programı\obj\x86\Debug\Anket programı.csproj.GenerateResource.Cache
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\Anket programı\Anket programı\obj\x86\Debug\Anket programı.csprojResolveAssemblyReference.cache
